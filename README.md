@@ -64,3 +64,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 Feel free to contribute, fork, or remix this project!
+
+## 🙏 Acknowledgments
+
+This project was created with the help of [ChatGPT](https://openai.com/chatgpt) by OpenAI.
+
